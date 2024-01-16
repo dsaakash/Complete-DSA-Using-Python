@@ -1,0 +1,5 @@
+Simplifying Code with “else if”
+
+As your code becomes more complex, you’ll often encounter scenarios where you need to check multiple conditions. Instead of writing multiple independent if statements, you can streamline your code using else if statements.
+
+Let’s say we want to grade students based on their marks within specific ranges:
